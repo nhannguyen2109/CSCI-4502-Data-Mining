@@ -107,8 +107,8 @@ Including the amount of interactions on social media, list of actors and directo
 
 ### Link to video demonstration
 
-Explain what these tests test and why
+https://github.com/nhannguyen2109/CSCI-4502-Data-Mining/blob/master/Group4_BoxOfficeRevenuePrediction_Part6_Video.mp4
 
 ### Link to final project paper
 
-Explain what these tests test and why
+https://github.com/nhannguyen2109/CSCI-4502-Data-Mining/blob/master/Group4_BoxOfficeRevenuePrediction_Part4.pdf
